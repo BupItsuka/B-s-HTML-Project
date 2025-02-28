@@ -1,0 +1,120 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    height: 250px;
+    width: 100%;
+}
+.row1{
+    height: 200px;
+    width: 100%;
+}
+.col1{
+    float: left;
+}
+.col2{
+    height: 200px;
+    width: calc(100%-200px);
+    text-align: center ;
+    background-color: plum;
+}
+.col2 p{
+    font-size: 100px;
+    text-transform: capitalize;
+    text-align: center;
+    top: 20%;
+    position: relative;
+}
+.row2{
+    height: 50px;
+    width: 100%;
+    background-color: darkorchid;
+}
+.row2 ol li{
+    display: inline;
+    padding: 3%;
+}
+.row2 ol li a{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: black;
+    top: 6px;
+    position: relative;
+}
+footer{
+    height: 350px;
+    width: 100%;
+}
+.row3{
+    height: 300px;
+    width: 100%;
+    
+}
+.col3{
+    height: 300px;
+    width: 34%;
+    float: left;
+    background-color: mediumaquamarine;
+}
+.col4{
+    height: 300px;
+    width: 33%;
+    float: left;
+    background-color: aquamarine;
+}
+.col5{
+    height: 300px;
+    width: 33%;
+    float: right;
+    background-color: skyblue;
+}
+h3{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    top: 6px;
+    position: relative;
+}
+.col3 p{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: justify;
+    padding-left: 15px;
+    padding-right: 15px;
+    top: 20px;
+    position: relative;
+}
+.col4 ul li{
+    list-style-type: none;
+    left: 40%;
+    top: 40px;
+    line-height: 40px;
+    position: relative;
+}
+.col4 ul li a{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.col5 p{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    top: 40px;
+    position: relative;
+}
+.row4{
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+}
+.row4 p{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    font-style: oblique;
+    top: 10px;
+    position: relative;
+}
